@@ -7,11 +7,11 @@ The scripts can be used to determine if the connection to PL-125-T2/T4 devices w
 ```
 # If working, the script should output something like this:
 # 5000.0 means that there is no sensor connected to T2
-$ python3 pl-125-t2/emulator.py 
+$ python3 pl-125-t2/testscript_t2.py
 T1: 23.0 T2: 5000.0
 T1: 23.0 T2: 5000.0
 ...
-$ python3 pl-125-t4/emulator.py 
+$ python3 pl-125-t4/testscript_t4.py
 T1: 17.8 T2: 17.8 T3: 19.3 T4: 19.1
 T1: 17.8 T2: 17.8 T3: 19.3 T4: 19.0
 T1: 17.7 T2: 17.8 T3: 19.3 T4: 19.0
