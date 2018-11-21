@@ -19,5 +19,5 @@ T1: 17.7 T2: 17.8 T3: 19.3 T4: 19.0
 ```
 
 ## Related Projects
-* [Artisan] (https://github.com/artisan-roaster-scope/artisan)
+* [Artisan](https://github.com/artisan-roaster-scope/artisan)
 
